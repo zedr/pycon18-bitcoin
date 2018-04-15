@@ -1,15 +1,9 @@
 ---
 ### Crea da zero un clone di Bitcoin
-Assicurati di
-
- - Aver installato Python **3**:
-   - Windows: use the installer
-   - Mac: `brew install python3`
- - The `python3` executable available in the terminal:
-   - Windows users:
-     * add it to your user's %PATH%
-   - Try running `python3 -m "this"`
- - Use an editor you're comfortable with (e.g. PyCharm)
+Cosa ci serve?
+ - Python 3 installato
+ - Il programma "python" eseguibile da terminale ("cmd" su Windows)
+ - Un editor di testo per programmatori
 
 <style> .slides:first-child { font-size: 75% !important; } </style>
 
