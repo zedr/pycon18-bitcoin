@@ -26,9 +26,9 @@ __*The author of Bitcoin.*__
 
 Chi ha inventato Bitcoin?
 
- - 1. Al Gore
- - 2. Satoshi Nakamoto
- - 3. Ryuichi Sakamoto
+ - 1. Al Gore |
+ - 2. Satoshi Nakamoto |
+ - 3. Ryuichi Sakamoto |
 
 ---
 
