@@ -20,6 +20,8 @@ Cosa ci serve?
 
 __*The author of Bitcoin.*__
 
+--
+
 ## Quiz 1
 
 Chi ha inventato Bitcoin?
