@@ -142,6 +142,6 @@ In Italia, la banda cittadina si trova attorno ai 27 mHz, usata principalmente d
 
 ## Il REPL
 
- - Read -> Eval -> Print -> Loop
+ - Read ⇨ Eval ⇨ Print ⇨ Loop
 
 ![](assets/repl.png)
