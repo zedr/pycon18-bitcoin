@@ -9,6 +9,7 @@ Cosa ci serve?
 <style> .slides:first-child { font-size: 75% !important; } </style>
 
 ---
+
 ## Benvenuti al workshop!
 
  > "I had to write all the code 
@@ -18,7 +19,9 @@ Cosa ci serve?
  > "Ho dovuto scrivere da zero tutto il codice,
  > per convincermi che potevo risolvere ogni problema"
 
-__*The author of Bitcoin.*__
+__*L'autore di Bitcoin.*__
+
+<style> .slides:nth-child(2) { background-color: red!important; } </style>
 
 ---
 
@@ -26,9 +29,9 @@ __*The author of Bitcoin.*__
 
 Chi ha inventato Bitcoin?
 
- - 1. Al Gore |
- - 2. Satoshi Nakamoto |
- - 3. Ryuichi Sakamoto |
+ - Al Gore |
+ - Satoshi Nakamoto |
+ - Ryuichi Sakamoto |
 
 ---
 
