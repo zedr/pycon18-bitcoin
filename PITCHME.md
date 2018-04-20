@@ -113,7 +113,7 @@ Esempi di sistemi decentralizzati che non possono disattivati?
 
 ---
 
-## Radios
+## Radio
 
  - Informazioni audio trasmesse usando l'energia elettromagnetica
  - Chiunque abbia un sistema radio full-duplex puo ricevere e inviare segnali
@@ -123,8 +123,25 @@ Esempi di sistemi decentralizzati che non possono disattivati?
 
 ---
 
+In Italia, la banda cittadina si trova attorno ai 27 mHz, usata principalmente dagli autotrasportatori.
+
+![](assets/cb2.jpg)
+---
+
 ![Video](https://www.youtube.com/embed/8lNFfRR73iU)
 
 ---
 
+## Nel nostro caso...
 
+ - Un protocollo (la frequenza, il linguaggio, etc..) |
+ - Un client (il sintonizzatore radio) |
+ - Un mezzo di trasporto dati, il TCP/IP (l'etere) |
+
+---
+
+## Il REPL
+
+ - Read -> Eval -> Print -> Loop
+
+![](assets/repl.png)
