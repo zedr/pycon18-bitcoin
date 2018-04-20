@@ -29,12 +29,38 @@ __*L'autore di Bitcoin.*__
 ### Digital Architect
 ![Logo](assets/wd.png)
 
+Per contattarmi: https://linkedin.com/in/rigeldiscala
+
 ---
+
 ![Video](https://www.youtube.com/embed/8lNFfRR73iU)
 
 ---
 
-Cos'è il denaro?
+## Obiettivi del workshop
+
+ - Capire come funziona Blockchain e le criptomonete
+ - Creare un piccolo clone di Bitcoin:
+ - Divertirci
+
+---
+
+## Programma
+
+ - Abbiamo 3 ore e mezza
+ - 3 sessioni da un'ora e 3 pause di 10 minuti
+ - Le domande sono benvenute in qualsiasi momento
+
+---
+
+## Metodo
+
+ - Python 3 (ovviamente)
+ - Scriveremo **tutto** da zero
+
+---
+
+## Cos'è il denaro?
 
  - una riserva di valore |
  - un mezzo di scambio |
@@ -42,7 +68,7 @@ Cos'è il denaro?
 
 ---
 
-Da cosa deriviamo il valore del denaro?
+##... il valore del denaro?
 
  - la sua scarsità |
  - un bene materiale o una quantità di lavoro |
