@@ -68,11 +68,11 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
 
 ---
 
-##... il valore del denaro?
+## ... e il valore del denaro?
 
  - la sua scarsità |
  - un bene materiale o una quantità di lavoro |
  - debito |
 
-Cosa ci impedisce di creare la nostra moneta personale? |
+ - Cosa ci impedisce di creare la nostra moneta personale? |
  
