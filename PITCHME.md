@@ -140,7 +140,7 @@ In Italia, la banda cittadina si trova attorno ai 27 mHz, usata principalmente d
 
 ---
 
-## Il REPL
+## Riscaldamento: il REPL
 
 ```
 10 READ
@@ -150,3 +150,19 @@ In Italia, la banda cittadina si trova attorno ai 27 mHz, usata principalmente d
 ```
 
 ![](assets/repl.png)
+
+---
+
+## Protocollo
+### REPL
+Lo script esegue un loop infinito che chiede input interattivo all'utente, 
+nel formato `COMANDO ARGOMENTI`, ad esempio `echo ciao`. L'unico comando supportato e' `echo` che stampa il comando sul terminale.
+
+#### Requisiti
+
+ - Script chiamato "main.py"
+ - Invoca `main()` automaticamente
+ - Usiamo `input()` per chiedere all'utente di digitare un comando
+ - Un unico comando eseguibile `echo`
+
+Chear mode: https://tinyurl.com/pyconnove1 
