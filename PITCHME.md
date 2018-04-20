@@ -25,18 +25,28 @@ __*L'autore di Bitcoin.*__
 
 ---
 
-## Quiz 1
-
-Chi ha inventato Bitcoin?
-
- - Al Gore |
- - Satoshi Nakamoto |
- - Ryuichi Sakamoto |
-
----
-
-## Quiz 2
+## Rigel Di Scala
+### Digital Architect
+![Logo](assets/wd.png)
 
 ---
 ![Video](https://www.youtube.com/embed/8lNFfRR73iU)
 
+---
+
+Cos'è il denaro?
+
+ - una riserva di valore |
+ - un mezzo di scambio |
+ - un'unità di conto |
+
+---
+
+Da cosa deriviamo il valore del denaro?
+
+ - la sua scarsità |
+ - un bene materiale o una quantità di lavoro |
+ - debito |
+
+Cosa ci impedisce di creare la nostra moneta personale? |
+ 
