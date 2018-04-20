@@ -153,7 +153,7 @@ In Italia, la banda cittadina si trova attorno ai 27 mHz, usata principalmente d
 
 ---
 
-## Protocollo
+## Il protocollo (v0.0.1)
 ### REPL
 Lo script esegue un loop infinito che chiede input interattivo all'utente, 
 nel formato `COMANDO ARGOMENTI`, ad esempio `echo ciao`. L'unico comando supportato e' `echo` che stampa il comando sul terminale.
@@ -166,3 +166,13 @@ nel formato `COMANDO ARGOMENTI`, ad esempio `echo ciao`. L'unico comando support
  - Un unico comando eseguibile `echo`
 
 Cheat mode: https://tinyurl.com/pyconnove1 
+
+---
+
+## La rete
+### Il broadcasting dei messaggi sulla rete
+
+ - I riceventi sono tutti i membri della rete che parlano la nostra lingua
+ - La nostra lingua e' il protocoll
+
+---
