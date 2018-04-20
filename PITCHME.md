@@ -33,10 +33,6 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
 
 ---
 
-![Video](https://www.youtube.com/embed/8lNFfRR73iU)
-
----
-
 ## Obiettivi del workshop
 
  - Capire come funziona Blockchain e le criptomonete
@@ -70,9 +66,55 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
 
 ## ... e il valore del denaro?
 
- - la sua scarsità |
- - un bene materiale o una quantità di lavoro |
- - debito |
+ - deriva la sua scarsità |
+ - corrisponde ad un bene materiale |
+ - corrisponde a un debito
 
- - Cosa ci impedisce di creare la nostra moneta personale? |
+---
+
+## Domanda
+
+Cosa ci impedisce di creare la nostra moneta personale?
+
+---
+
+ > Dobbiamo risolvere tre problemi fondamentali:
+ > 1. Come scambiare informazioni in rete con sconosciuti e in maniera anonima
+ > 2. Come creare identità autentiche che possono riscuotere il credito
+ > 3. Come inviare informazioni da una identità all'altra, globalmente e in perfetta sicurezza
+
+__*Pieter Hintjens*__, "Hacking the Edges"
+
+---
+
+## Di cosa abbiamo bisogno?
+
+ - Uno o più computer
+ - Una rete di comunicazione
+ - Un protocollo comune
+ - ... e forse qualcos'altro...
+
+---
+
+## Atto Primo: la rete peer-to-peer
+
+ > La privacy è necessaria per una società aperta nell'era digitale. 
+ > Non possiamo aspettarci che i governi, le aziende o altre grandi organizzazioni senza volto ci concedano la privacy.
+ > Dobbiamo difendere la nostra privacy se ci aspettiamo qualcosa. 
  
+ > I cypherpunk scrivono il codice. Sappiamo che qualcuno deve creare i software per difendere la privacy, e ... lo stiamo facendo.
+ > Il software non può essere distrutto, e un sistema decentralizzato non può essere smantellato.
+
+__*Eric Hughes*__, A Cypherpunk's Manifesto
+
+---
+
+Esempi di sistemi decentralizzati che non possono disattivati? 
+
+---
+
+![Video](https://www.youtube.com/embed/8lNFfRR73iU)
+
+---
+
+
