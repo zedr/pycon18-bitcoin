@@ -68,7 +68,7 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
 
  - deriva la sua scarsità |
  - corrisponde ad un bene materiale |
- - corrisponde a un debito
+ - corrisponde a un debito |
 
 ---
 
@@ -110,6 +110,16 @@ __*Eric Hughes*__, A Cypherpunk's Manifesto
 ---
 
 Esempi di sistemi decentralizzati che non possono disattivati? 
+
+---
+
+## Radios
+
+ - Informazioni audio trasmesse usando l'energia elettromagnetica
+ - Chiunque abbia un sistema radio full-duplex puo ricevere e inviare segnali
+ - I tuner radio si sintonizzano sulla banda 3kHz - 300GHz
+
+![](assets/radiolondra.jpg)
 
 ---
 
