@@ -33,6 +33,10 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
 
 ---
 
+![](assets/contattami.png)
+
+---
+
 ## Obiettivi del workshop
 
  - Capire come funziona Blockchain e le criptomonete
@@ -155,7 +159,7 @@ In Italia, la banda cittadina si trova attorno ai 27 mHz, usata principalmente d
 
 `Cos'è Internet? Un mucchio di protocolli!`
 
-__*Pieter Hintjens*__, FOSDEM 13
+__*Pieter Hintjens*__, FOSDEM '13
 
 ---
 
@@ -204,7 +208,23 @@ Mask:255.255.255.0
 
 ---
 
-## Mille modi per programmare in UDP con Python... il mio preferito è...
+## Server
+
+Usando il netcat tradizionale (non OpenBSD) su Linux: 
+
+```
+nc -ulk -p 8000
+```
+
+Su OSX:
+
+```
+
+```
+
+---
+
+## Mille modi per programmare in UDP con Python... e noi useremo...
 
 ---
 
@@ -238,4 +258,4 @@ loop.run_until_complete(asyncio.gather(
 loop.close()
 ```
 
-
+---
