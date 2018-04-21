@@ -12,10 +12,6 @@ Cosa ci serve?
 
 ## Benvenuti al workshop!
 
- > "I had to write all the code 
- > before I could convince myself that I could
- > solve every problem"
-
  > "Ho dovuto scrivere da zero tutto il codice,
  > per convincermi che potevo risolvere ogni problema"
 
@@ -312,3 +308,90 @@ Due coroutine:
  - One for the Network handler
 
 Ricordati: le coroutine sono molto simili ai generatori
+
+---
+
+# Atto secondo: La crittografia asincrona
+
+ > Privacy is the power to selectively reveal oneself to the world
+
+__*Eric Hughes*__, A Cypherpunk's Manifesto
+
+Note:
+Conoscete qualche cypherpunk?
+
+---
+## Cypherpunk famosi
+
+ - Julian Assange |
+ - Bram Cohen |
+ - Satoshi Nakamoto? |
+
+---
+
+```
+#!/bin/perl -sp0777i<X+d*lMLa^*lN%0]dsXx++lMlN/dsM0<j]dsj
+$/=unpack('H*',$_);$_=`echo 16dio\U$k"SK$/SM$n\EsN0p[lN*1
+lK[d2%Sa2/d0$^Ixp"|dc`;s/\W//g;$_=pack('H*',/((..)*)$/)
+```
+__*Adam Back, 1995*___, RSA in tre linee di Perl
+
+---
+### Quel piccolo algoritmo... 
+
+ - E-commerce, un giro d'affari da *$1.95 trillioni* di dollari
+ - Diventeranno $4 trillioni nel 2020
+
+---
+## Concetti base della crittografia asincrona
+### Alice e Berto hanno due coppie di chiavi ciascuno
+#### Ogni coppia è formata da una chiave pubblica e privata
+
+ - Le pubbliche possono essere condivise con chiunque
+ - Le private devono rimanere tali
+ - Non è possibile dedurre la chiave privata da quella pubblica
+
+---
+## Concetti base (2)
+
+ - Alice cifra il suo messaggio con la sua chiave privata
+ - Chiunque abbia la sua chiave pubblica può leggerlo
+
+---
+
+## Concetti base (3)
+
+ - Alice cifra il suo messaggio con la chiave pubblica di Berto
+ - Solo Berto può decrittare e leggere il messaggio di Alice
+
+---
+
+## Concetti base (4)
+
+ - Alice vuole dimostrare che un messaggio pubblico proviene veramente da lei
+ - Alice ha due possibilità:
+    - può crittare il messaggio con la sua chiave privata
+    - oppure può crittare il fingerprint del messaggio (firma digitale)
+
+---
+### É giunta l'ora di creare il nostro sistema crittografico
+
+![](assets/rolled.png)
+
+---
+
+### Il test di primalità
+
+### L'algoritmo di Euclide (esteso)
+
+Trova il massimo comune divisore (indicato con *MCD*) tra due numeri interi. Nella sua variante estesa, trova i coefficenti dell'identità di Bézout.
+
+### Il reciproco
+
+Quel numero che, moltiplicato per `x`, da come risultato 1.
+
+`8 * X = 1`
+
+---
+
+
