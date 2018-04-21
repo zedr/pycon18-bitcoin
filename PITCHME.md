@@ -91,7 +91,7 @@ __*Pieter Hintjens*__, "Hacking the Edges"
 
  - Uno o più computer
  - Una rete di comunicazione
- - Un protocollo comune
+ - Un **protocollo** comune
  - ... e forse qualcos'altro...
 
 ---
