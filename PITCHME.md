@@ -23,10 +23,6 @@ __*L'autore di Bitcoin.*__
 
 <style> .slides:nth-child(2) { background-color: red!important; } </style>
 
-Note:
-
-sasjsjjsa
-
 ---
 
 ## Rigel Di Scala
@@ -68,7 +64,10 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
 
  - una riserva di valore |
  - un mezzo di scambio |
- - un'unità di conto |
+ - un'unità di conto 
+
+ Note:
+ lol bla lol
 
 ---
 
