@@ -114,7 +114,7 @@ Note:
 
 ---
 
-Esempi di sistemi decentralizzati che non possono disattivati? 
+# Esempi di sistemi decentralizzati che non possono disattivati? 
 
 ---
 
