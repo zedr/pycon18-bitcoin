@@ -489,6 +489,9 @@ Quando un nuovo nodo entra a far parte del network, deve immediatamente scaricar
 
 __*Satoshi Nakamoto*__
 
+Note:
+Email e il proof of work
+
 ---
 # Proof of work
 
