@@ -26,7 +26,7 @@ __*L'autore di Bitcoin.*__
 ---
 
 ## Rigel Di Scala
-### Digital Architect
+### Digital Architect <span style="font-size: 25%">Macchevoordi</span>
 ![Logo](assets/wd.png)
 
 Per contattarmi: https://linkedin.com/in/rigeldiscala
@@ -266,6 +266,23 @@ Una delle librerie Python più popolari in Sardegna...
  - Oppure possiamo chiedergli rimanere in ascolto e chiamarci se succede qualcosa di interessante
 
 ---
+## Asyncio
+### Sintassi
+
+```python
+import asyncio
+
+async def f():
+    await asyncio.sleep(1)
+```
+```
+>>> f
+<function foo at 0x7f5509baf9d8>
+>>> f()
+<coroutine object foo at 0x7f5509bb6ba0>
+```
+
+---
 
 ## Mostrami il codice!
 
@@ -285,3 +302,12 @@ loop.close()
 ```
 
 ---
+
+## Reimplementiamo il nostro REPL usando asyncio
+
+Due coroutines:
+
+ - One for the REPL
+ - One for the Network handler
+
+Remember: coroutines are really just fancy generator functions.
