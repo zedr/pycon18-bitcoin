@@ -153,7 +153,13 @@ In Italia, la banda cittadina si trova attorno ai 27 mHz, usata principalmente d
 
 ---
 
-## Il protocollo (v0.0.1)
+`Cos'è Internet? Un mucchio di protocolli!`
+
+__*Pieter Hintjens*__, FOSDEM 13
+
+---
+
+## Il protocollo (v0.1.0)
 ### REPL
 Lo script esegue un loop infinito che chiede input interattivo all'utente, 
 nel formato `COMANDO ARGOMENTI`, ad esempio `echo ciao`. L'unico comando supportato e' `echo` che stampa il comando sul terminale.
@@ -172,7 +178,64 @@ Cheat mode: https://tinyurl.com/pyconnove1
 ## La rete
 ### Il broadcasting dei messaggi sulla rete
 
- - I riceventi sono tutti i membri della rete che parlano la nostra lingua
- - La nostra lingua e' il protocoll
+ - Siamo tutti collegati alla stessa rete
+ - Possiamo *broadcastare* messaggi tra di noi
+ - Dobbiamo solo accordarci su un protocollo per la comunicazione (v0.2.0)
 
 ---
+
+## Where to send our messages
+
+ - Apriamo il terminale
+ - Inseriamo:
+    `ipconfig` su Windows
+    `ifconfig` su Linux/Mac OS
+
+### Esempio
+```
+inet addr:192.168.0.115  
+Bcast:192.168.0.255 
+Mask:255.255.255.0
+```
+
+---
+
+![](assets/broadcast.png)
+
+---
+
+## Mille modi per programmare in UDP con Python... il mio preferito è...
+
+---
+
+## ASYNCIO
+### Segue brevissima introduzione
+
+---
+## Asyncio
+
+ - Il modulo standard in Python 3 per la programmazione asincrona |
+ - Ruota (*ahah*) attorno al concetto di **event loop** |
+ - Mettiamo in moto il *loop* e gli diamo compiti (*task*) da eseguire |
+ - Oppure possiamo chiedergli rimanere in ascolto e chiamarci se succede qualcosa di interessante |
+
+---
+
+## Mostrami il codice!
+
+```python
+import asyncio
+
+async def f(uid):
+    await asyncio.sleep(uid ** 2)
+    print(uid)
+
+loop = asyncio.get_event_loop()
+loop.run_until_complete(asyncio.gather(
+    f(2),
+    f(1)
+))
+loop.close()
+```
+
+
