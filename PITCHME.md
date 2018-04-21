@@ -193,8 +193,6 @@ nel formato `COMANDO ARGOMENTI`, ad esempio `echo ciao`. L'unico comando support
  - Usiamo `input()` per chiedere all'utente di digitare un comando
  - Un unico comando eseguibile `echo`
 
-Cheat mode: https://tinyurl.com/pyconnove1 
-
 ---
 
 ## La rete
@@ -308,9 +306,9 @@ loop.close()
 
 ## Reimplementiamo il nostro REPL usando asyncio
 
-Due coroutines:
+Due coroutine:
 
  - One for the REPL
  - One for the Network handler
 
-Remember: coroutines are really just fancy generator functions.
+Ricordati: le coroutine sono molto simili ai generatori
