@@ -247,7 +247,13 @@ echo "hello" | nc -b -u 192.168.0.255 8000
 ```
 
 +++
-blablabla
+![](assets/gods.jpg)
+
+```
+SSID:   bitcoinworkshop
+PWD:    lavoronegozio   
+```
+
 ---
 
 ## Mille modi per programmare in UDP con Python... e noi useremo...
