@@ -66,6 +66,7 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
  - un mezzo di scambio |
  - un'unità di conto |
 
+
  Note:
  blablabla
 
