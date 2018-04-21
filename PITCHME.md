@@ -135,6 +135,14 @@ In Italia, la banda cittadina si trova attorno ai 27 mHz, usata principalmente d
 ![Video](https://www.youtube.com/embed/8lNFfRR73iU)
 
 ---
+## Stazioni numeriche
+### (Number stations)
+
+Usano il sistema crittografico chiamato "Il cifrario di Vernam" o "one time pad", dalla segretezza perfetta.
+
+![](assets/otp1.jpg)
+
+---
 
 ## Nel nostro caso...
 
@@ -246,7 +254,7 @@ Una delle librerie Python più popolari in Sardegna...
 
  - Il modulo standard in Python 3 per la programmazione asincrona |
  - Ruota (*ahah*) attorno al concetto di **event loop** |
- - Mettiamo in moto il *loop* e gli diamo compiti (*task*) da eseguire |
+ - Mettiamo in moto il *loop* e gli diamo compiti ( *task* ) da eseguire |
  - Oppure possiamo chiedergli rimanere in ascolto e chiamarci se succede qualcosa di interessante |
 
 ---
