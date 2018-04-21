@@ -390,13 +390,13 @@ __*Adam Back, 1995*___, RSA in tre linee di Perl
 
 ---
 
-### Il test di primalità
+### 1. Il test di primalità
 
-### L'algoritmo di Euclide (esteso)
+### 2. L'algoritmo di Euclide (esteso)
 
 Trova il massimo comune divisore (indicato con *MCD*) tra due numeri interi. Nella sua variante estesa, trova i coefficenti dell'identità di Bézout.
 
-### Il reciproco
+### 3. Il reciproco
 
 Quel numero che, moltiplicato per `x`, da come risultato 1.
 
