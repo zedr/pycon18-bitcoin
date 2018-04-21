@@ -33,7 +33,7 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
 
 ---
 
-![](assets/contattami.png)
+![](assets/chiedimi.png)
 
 ---
 
