@@ -314,8 +314,8 @@ loop.close()
 
 Due coroutine:
 
- - One for the REPL
- - One for the Network handler
+ - Una per il REPL
+ - Una per il network handler
 
 Ricordati: le coroutine sono molto simili ai generatori
 
