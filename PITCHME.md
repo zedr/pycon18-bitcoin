@@ -404,7 +404,7 @@ Quel numero che, moltiplicato per `x`, da come risultato 1.
 
 ---
 
-## Punti chiave (ahah)
+## Punti chiave <span style="font-size: 25%">(ahah)</span>
 
  - Qualsiasi numero è fattorizzabile in numeri primi
  - Non si conosco algoritmi efficienti per farlo
