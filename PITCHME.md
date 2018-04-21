@@ -183,7 +183,7 @@ __*Pieter Hintjens*__, FOSDEM '13
 ---
 
 ## Il *minimo comune protocollo*
-### REPL
+### REPL - *R*ead, *E*val, *P*rint, *L*oop
 Lo script esegue un loop infinito che chiede input interattivo all'utente, 
 nel formato `COMANDO ARGOMENTI`, ad esempio `echo ciao`. L'unico comando supportato e' `echo` che stampa il comando sul terminale.
 
