@@ -114,7 +114,7 @@ Note:
 
 ---
 
-# Esempi di sistemi decentralizzati che non possono disattivati? 
+## Esempi di sistemi decentralizzati che non possono disattivati? 
 
 ---
 
@@ -176,13 +176,13 @@ Le stazioni numeriche sono esempi di reti decentralizzati che usano la crittogra
 
 ---
 
-`Cos'è Internet? Un mucchio di protocolli!`
+`Cos'è Internet? Un cumolo di protocolli!`
 
 __*Pieter Hintjens*__, FOSDEM '13
 
 ---
 
-## Il minimo comune protocollo
+## Il *minimo comune protocollo*
 ### REPL
 Lo script esegue un loop infinito che chiede input interattivo all'utente, 
 nel formato `COMANDO ARGOMENTI`, ad esempio `echo ciao`. L'unico comando supportato e' `echo` che stampa il comando sul terminale.
