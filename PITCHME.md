@@ -144,6 +144,10 @@ Usano il sistema crittografico chiamato "Il cifrario di Vernam" o "one time pad"
 
 ---
 
+![](assets/otp2.jpg)
+
+---
+
 ## Nel nostro caso...
 
  - Un protocollo (la frequenza, il linguaggio, etc..) |
