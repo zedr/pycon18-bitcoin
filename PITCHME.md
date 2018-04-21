@@ -64,10 +64,7 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
 
  - una riserva di valore |
  - un mezzo di scambio |
- - un'unità di conto 
-
- Note:
- lol bla lol
+ - un'unità di conto |
 
 ---
 
@@ -211,7 +208,7 @@ Mask:255.255.255.0
 
 ---
 
-## Server
+### Server
 
 Usando il netcat tradizionale (non OpenBSD) su Linux: 
 
@@ -222,9 +219,16 @@ nc -ulk -p 8000
 Su OSX:
 
 ```
-
+nc -ul 8000
 ```
 
+### Client
+
+Su Linux:
+
+```
+echo "hello" | nc -b -u 192.168.0.255 8000
+```
 ---
 
 ## Mille modi per programmare in UDP con Python... e noi useremo...
@@ -233,6 +237,9 @@ Su OSX:
 
 ## ASYNCIO
 ### Segue brevissima introduzione
+
+Note:
+Una delle librerie Python più popolari in Sardegna...
 
 ---
 ## Asyncio
