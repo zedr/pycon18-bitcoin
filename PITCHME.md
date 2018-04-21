@@ -260,10 +260,10 @@ Una delle librerie Python più popolari in Sardegna...
 
 ## Asyncio
 
- - Il modulo standard in Python 3 per la programmazione asincrona |
- - Ruota (ahah) attorno al concetto di **event loop** |
- - Mettiamo in moto il *loop* e gli diamo compiti (task) da eseguire |
- - Oppure possiamo chiedergli rimanere in ascolto e chiamarci se succede qualcosa di interessante |
+ - Il modulo standard in Python 3 per la programmazione asincrona
+ - Ruota (*ahah*) attorno al concetto di **event loop**
+ - Mettiamo in moto il *loop* e gli diamo compiti ( *task* ) da eseguire
+ - Oppure possiamo chiedergli rimanere in ascolto e chiamarci se succede qualcosa di interessante
 
 ---
 
