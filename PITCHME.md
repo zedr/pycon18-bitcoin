@@ -493,11 +493,18 @@ Note:
 Email e il proof of work
 
 ---
-# Proof of work
+## Proof of work
 
  - Difficile da produrre |
  - Facile da verificare |
  - La quantità di lavoro deve essere modulabile |
+
+---
+## La regola n.2 di Bill Booth
+
+![](assets/booth.jpg)
+
+ > "Più l'equipaggiamento da paracadutismo diventa sicuro, più rischi vengono presi dai paracadutisti, in modo da mantenere un numero costante di decessi all'anno" 
 
 ---
 # Consensus
