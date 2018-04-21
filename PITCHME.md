@@ -249,10 +249,9 @@ echo "hello" | nc -b -u 192.168.0.255 8000
 +++
 ![](assets/gods.jpg)
 
-```
-SSID:   bitcoinworkshop
-PWD:    lavoronegozio   
-```
+
+## SSID: bitcoinworkshop
+## PWD: lavoronegozio   
 
 ---
 
