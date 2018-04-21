@@ -192,7 +192,7 @@ nel formato `COMANDO ARGOMENTI`, ad esempio `echo ciao`. L'unico comando support
  - Script chiamato "main.py"
  - Invoca `main()` automaticamente
  - Usiamo `input()` per chiedere all'utente di digitare un comando
- - Un unico comando eseguibile `echo`
+ - Un unico comando eseguibile `say`
 
 ---
 
@@ -245,6 +245,9 @@ Su Linux:
 ```
 echo "hello" | nc -b -u 192.168.0.255 8000
 ```
+
++++
+blablabla
 ---
 
 ## Mille modi per programmare in UDP con Python... e noi useremo...
