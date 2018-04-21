@@ -66,9 +66,9 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
 
 ## ... e il valore del denaro?
 
- - deriva la sua scarsità |
- - corrisponde ad un bene materiale |
- - corrisponde a un debito |
+ - deriva la sua scarsità? |
+ - corrisponde ad un bene materiale? |
+ - corrisponde a un debito? |
 
 ---
 
