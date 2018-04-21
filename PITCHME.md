@@ -177,7 +177,7 @@ __*Pieter Hintjens*__, FOSDEM '13
 
 ---
 
-## Il protocollo (v0.1.0)
+## Il minimo comune protocollo
 ### REPL
 Lo script esegue un loop infinito che chiede input interattivo all'utente, 
 nel formato `COMANDO ARGOMENTI`, ad esempio `echo ciao`. L'unico comando supportato e' `echo` che stampa il comando sul terminale.
@@ -196,11 +196,10 @@ nel formato `COMANDO ARGOMENTI`, ad esempio `echo ciao`. L'unico comando support
 
  - Siamo tutti collegati alla stessa rete
  - Possiamo *broadcastare* messaggi tra di noi
- - Dobbiamo solo accordarci su un protocollo per la comunicazione (v0.2.0)
-
+ - Dobbiamo solo accordarci su un protocollo adatto per la comunicazione
 ---
 
-## Where to send our messages
+## Dove mandare i nostri messaggi...
 
  - Apriamo il terminale
  - Inseriamo:
