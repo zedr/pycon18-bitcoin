@@ -420,7 +420,7 @@ Quel numero che, moltiplicato per `x`, da come risultato 1.
  - implementiamo l'algoritmo di Euclide |
  - implementiamo il reciproco |
  - definiamo P, Q, CONSTANT, MODULUS, PRIVATE_KEY, PUBLIC_KEY |
- - torneremo a casa e dimenticheremo tutto |
+ - poi torneremo a casa e **dimenticheremo** tutto |
 
 ---
 
