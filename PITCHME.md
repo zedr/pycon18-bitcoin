@@ -140,11 +140,11 @@ In Italia, la banda cittadina si trova attorno ai 27 mHz, usata principalmente d
 
 Usano il sistema crittografico chiamato "Il cifrario di Vernam" o "one time pad", dalla segretezza perfetta.
 
-![](assets/otp1.jpg)
+![](assets/otp.jpg)
 
 ---
 
-![](assets/otp2.jpg)
+![](assets/otp2.png)
 
 ---
 
