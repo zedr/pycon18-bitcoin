@@ -146,6 +146,9 @@ Usano il sistema crittografico chiamato "Il cifrario di Vernam" o "one time pad"
 
 ![](assets/otp2.png)
 
+Note:
+Le stazioni numeriche sono esempi di reti decentralizzati che usano la crittografia per comunicare in maniera sicura.
+
 ---
 
 ## Nel nostro caso...
