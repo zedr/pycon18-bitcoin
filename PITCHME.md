@@ -393,4 +393,115 @@ Quel numero che, moltiplicato per `x`, da come risultato 1.
 
 ---
 
+## Punti chiave (ahah)
 
+ - Qualsiasi numero è fattorizzabile in numeri primi
+ - Non si conosco algoritmi efficienti per farlo
+ - Più grande è il numero, più difficile è la sua fattorizzazione
+
+---
+
+## Algoritmo RSA triviale e insicuro
+### IMPORTANTE: non usare in produzione! :)
+
+ - generiamo una serie di numeri primi |
+ - ne scegliamo uno, tale che soddisfi 2 < x < 1000 |
+ - implementiamo l'algoritmo di Euclide |
+ - implementiamo il reciproco |
+ - definiamo P, Q, CONSTANT, MODULUS, PRIVATE_KEY, PUBLIC_KEY |
+ - ??? |
+ - profit! |
+
+---
+
+# Cifrare e decifrare
+
+---
+# Firme digitali
+
+---
+# Firmare i nostri messaggi
+
+---
+# Visualizzazione a strati del Satoshi client
+
+```
+ Validazione delle transazioni, della blockchain e dei peer
+                   |
+      Engine di scripting / consensus
+                   |
+             Layer di rete  (codice P2P)
+                   |
+             Messaggi P2P
+```
+https://en.bitcoin.it/wiki/Bitcoin_Core_0.11_(ch_1):_Overview
+
+---
+# Gli strati semplicati
+
+ - Protocollo
+ - Rete
+ - Trasporto
+
+---
+# Atto 3: Transazioni
+
+![](assets/abstract.png)
+
+ - Cosa non includeremo nel nostro client:
+    - input multipli
+    - fee di transazione
+    - portafogli (wallet)
+
+ - Ma avremo il Coinbase (le ricompense per i minatori) e gli output multipli
+
+---
+![](assets/transactions.png)
+
+---
+# Atto 4: Il blockchain
+
+---
+# I fatidici blocchi
+
+    - Hanno un collegamento al loro antenato
+        - Tranne per il Genesis Block
+    - Possono contenere una o più transazioni (Coinbase escluso)
+
+![](assets/block.png)
+
+---
+# Anatomia di un blocco
+
+ - La prima transazione è sempre il Coinbase (la ricompensa) |
+ - Seguono tutte le varie transazioni (limite 2MB a blocco) |
+ - Domanda: perchè c'è un limite? |
+
+---
+# Download iniziale dei blocchi
+
+Quando un nuovo nodo entra a far parte del network, deve immediatamente scaricare una copia complete o parziale del blockchain, e convalidarlo.
+
+---
+# Atto finale: il Proof of work
+
+ > La scorta di denaro deve crescere ad una velocità costante.
+
+__*Satoshi Nakamoto*__
+
+---
+# Proof of work
+
+ - Difficile da produrre |
+ - Facile da verificare |
+ - La quantità di lavoro deve essere modulabile |
+
+---
+# Consensus
+
+La blockchain piu lunga è quella che ha richiesto più lavoro per produrla, e va considerata come quella canonica.
+
+---
+# Domanda finale
+
+### Se controllo il 51% delle risorse totali del network, mi convienere approfittarne per trarne vantaggio in modo illecito (ad esempio cambiando le transazioni passate per spendere la stessa moneta due volte)?
