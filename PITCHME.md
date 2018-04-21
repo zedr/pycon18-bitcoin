@@ -36,7 +36,7 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
 ## Obiettivi del workshop
 
  - Capire come funziona Blockchain e le criptomonete
- - Creare un piccolo clone di Bitcoin:
+ - Creare un piccolo clone di Bitcoin
  - Divertirci
 
 ---
@@ -98,6 +98,12 @@ __*Pieter Hintjens*__, "Hacking the Edges"
 
 ## Atto Primo: la rete peer-to-peer
 
+ > I cypherpunk scrivono il codice. Sappiamo che qualcuno deve creare i software per difendere la privacy, e ... lo stiamo facendo.
+ > Il software non può essere distrutto, e un sistema decentralizzato non può essere smantellato.
+
+__*Eric Hughes*__, A Cypherpunk's Manifesto
+
+Note:
  > La privacy è necessaria per una società aperta nell'era digitale. 
  > Non possiamo aspettarci che i governi, le aziende o altre grandi organizzazioni senza volto ci concedano la privacy.
  > Dobbiamo difendere la nostra privacy se ci aspettiamo qualcosa. 
@@ -105,7 +111,6 @@ __*Pieter Hintjens*__, "Hacking the Edges"
  > I cypherpunk scrivono il codice. Sappiamo che qualcuno deve creare i software per difendere la privacy, e ... lo stiamo facendo.
  > Il software non può essere distrutto, e un sistema decentralizzato non può essere smantellato.
 
-__*Eric Hughes*__, A Cypherpunk's Manifesto
 
 ---
 
