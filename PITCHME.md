@@ -130,6 +130,9 @@ Esempi di sistemi decentralizzati che non possono disattivati?
 In Italia, la banda cittadina si trova attorno ai 27 mHz, usata principalmente dagli autotrasportatori.
 
 ![](assets/cb2.jpg)
+
+Note:
+Cosa succede se ci sintonizziamo su certe frequenze a determinati orari?
 ---
 
 ![Video](https://www.youtube.com/embed/8lNFfRR73iU)
