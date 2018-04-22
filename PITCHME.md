@@ -35,7 +35,7 @@ Per contattarmi: https://linkedin.com/in/rigeldiscala
 
 ## Obiettivi del workshop
 
- - Capire come funziona Blockchain e le criptomonete
+ - Capire come funzionano Blockchain e le criptomonete
  - Creare un piccolo clone di Bitcoin
  - Divertirci
 
