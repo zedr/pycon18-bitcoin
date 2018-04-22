@@ -152,7 +152,7 @@ Cosa succede se ci sintonizziamo su certe frequenze a determinati orari?
 
 Usano il sistema crittografico chiamato "Il cifrario di Vernam" o "one time pad", dalla segretezza perfetta.
 
-![](assets/numcomm2.jpg)
+![](assets/numcomm2.png)
 
 ---
 
