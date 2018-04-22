@@ -128,6 +128,14 @@ Note:
 
 ---
 
+## Radio
+
+ - Globale e decentralizzata
+ - Democratica e anonima
+ - Ha un client (il sintonizzatore) e un protocollo
+
+---
+
 In Italia, la banda cittadina si trova attorno ai 27 mHz, usata principalmente dagli autotrasportatori.
 
 ![](assets/cb2.jpg)
@@ -144,7 +152,11 @@ Cosa succede se ci sintonizziamo su certe frequenze a determinati orari?
 
 Usano il sistema crittografico chiamato "Il cifrario di Vernam" o "one time pad", dalla segretezza perfetta.
 
-![](assets/otp.jpg)
+![](assets/numcomm2.jpg)
+
+---
+
+![](assets/numcomm.png)
 
 ---
 
@@ -515,6 +527,12 @@ Email e il proof of work
 ![](assets/booth.jpg)
 
  > "Più l'equipaggiamento da paracadutismo diventa sicuro, più rischi vengono presi dai paracadutisti, in modo da mantenere un numero costante di decessi all'anno" 
+
+---
+
+## Hashrate di Bitcoin
+
+25 milioni di trilioni di hash al secondo.
 
 ---
 # Consensus
