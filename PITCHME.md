@@ -21,18 +21,6 @@ __*L'autore di Bitcoin.*__
 
 ---
 
-## Rigel Di Scala
-### Digital Architect <span style="font-size: 25%">Ma che vor di'?</span>
-![Logo](assets/wd.png)
-
-Per contattarmi: https://linkedin.com/in/rigeldiscala
-
----
-
-![](assets/chiedimi.png)
-
----
-
 ## Obiettivi del workshop
 
  - Capire come funzionano Blockchain e le criptomonete
